@@ -20,13 +20,22 @@ A PyTorch-based 2-layer GRU time-series model built to predict next-day AAPL clo
 
 ---
 
-### 1. [Rock-Paper-Scissors-in-C](https://github.com/BhaveshG29/Mini-Projects/tree/314b4a11aeada7eb6e9a0d315947fdc945bef546/Rock-Paper-Scissors-in-C)
+### 2. [Rock-Paper-Scissors-in-C](https://github.com/BhaveshG29/Mini-Projects/tree/314b4a11aeada7eb6e9a0d315947fdc945bef546/Rock-Paper-Scissors-in-C)
 
 **Summary:**
 
 A simple terminal based Rock-Paper-Scissors Game in C language, built it within 31mins.
 
 ---
+### 3. [Residential-Energy-Consumption-Analytics-Project](https://github.com/BhaveshG29/Mini-Projects/tree/42fc5489a81756fc784bac31cc37f2ff4dff0931/Residential-Energy-Consumption-Analytics-Project)
+
+**Summary:**
+
+This project analyzes residential energy consumption data to uncover patterns, trends, and opportunities for optimization. Using real smart meter readings, the analysis provides actionable insights for households and utility companies to understand energy usage behavior and implement efficiency measures.
+
+
+---
+
 ## 🎯 Purpose of This Repository
 
 * Reinforce theoretical concepts through coding
