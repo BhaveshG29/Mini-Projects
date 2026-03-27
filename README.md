@@ -20,7 +20,13 @@ A PyTorch-based 2-layer GRU time-series model built to predict next-day AAPL clo
 
 ---
 
+### 1. [Rock-Paper-Scissors-in-C](https://github.com/BhaveshG29/Mini-Projects/tree/314b4a11aeada7eb6e9a0d315947fdc945bef546/Rock-Paper-Scissors-in-C)
 
+**Summary:**
+
+A simple terminal based Rock-Paper-Scissors Game in C language, built it within 31mins.
+
+---
 ## 🎯 Purpose of This Repository
 
 * Reinforce theoretical concepts through coding
