@@ -12,7 +12,7 @@ These projects are intentionally **not large-scale or production-oriented**. Ins
 
 ## 📌 Projects
 
-### 1. GRU-Based-Time-Series-Forecasting-for-AAPL
+### 1. [GRU-Based-Time-Series-Forecasting-for-AAPL](https://github.com/BhaveshG29/Mini-Projects/tree/5fa4ee7628bb7dfbc066dc4878794212085ed8e3/GRU-Based-Time-Series-Forecasting-for-AAPL)
 
 **Summary:**
 
