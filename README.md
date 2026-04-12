@@ -35,6 +35,15 @@ This project analyzes residential energy consumption data to uncover patterns, t
 
 
 ---
+### 4. [IMDb-Sentiment-Analysis](https://github.com/BhaveshG29/Mini-Projects/tree/main/IMDb-Sentiment-Analysis)
+
+**Summary:**
+
+This project is a learning-focused NLP implementation that builds a classical sentiment analysis pipeline from first principles. The main emphasis is on implementing Bag of Words (BoW) and TF-IDF manually instead of relying on high-level libraries.
+
+The objective was to understand how raw text is converted into numerical features and how those features can be used by a neural network classifier.
+
+---
 
 ## 🎯 Purpose of This Repository
 
