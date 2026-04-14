@@ -10,6 +10,15 @@ These projects are intentionally **not large-scale or production-oriented**. Ins
 
 ---
 
+## 🎯 Purpose of This Repository
+
+* Reinforce theoretical concepts through coding
+* Build a strong intuitive understanding of AI/tech topics
+* Maintain a record of learning progress
+* Experiment without worrying about scale or perfection
+
+---
+
 ## 📌 Projects
 
 ### 1. [GRU-Based-Time-Series-Forecasting-for-AAPL](https://github.com/BhaveshG29/Mini-Projects/tree/5fa4ee7628bb7dfbc066dc4878794212085ed8e3/GRU-Based-Time-Series-Forecasting-for-AAPL)
@@ -45,18 +54,16 @@ The objective was to understand how raw text is converted into numerical feature
 
 ---
 
-## 🎯 Purpose of This Repository
+### 5. [Mini-BPE-Algorithm](https://github.com/BhaveshG29/Mini-Projects/tree/e2be6db18e167845796b9f489276faaa6ef84c88/Mini-BPE-Algorithm)
 
-* Reinforce theoretical concepts through coding
-* Build a strong intuitive understanding of AI/tech topics
-* Maintain a record of learning progress
-* Experiment without worrying about scale or perfection
+**Summary:**
+
+A from-scratch Byte Pair Encoding (BPE) tokenizer project built for learning, experimentation, and intuition. This repository implements the core ideas behind GPT-style byte-level tokenization.
+
 
 ---
 
 ## 📫 Contact
 
-* **LinkedIn:** www.linkedin.com/in/bhavesh-g-663a34257
-* **GitHub:** https://github.com/BhaveshG29
-
----
+* **LinkedIn:** [Click Here](www.linkedin.com/in/bhavesh-g-663a34257)
+* **GitHub:** [Click Here](https://github.com/BhaveshG29)
