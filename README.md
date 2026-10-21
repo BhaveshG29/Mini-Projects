@@ -65,5 +65,5 @@ A from-scratch Byte Pair Encoding (BPE) tokenizer project built for learning, ex
 
 ## 📫 Contact
 
-* **LinkedIn:** [Click Here](www.linkedin.com/in/bhavesh-g-663a34257)
+* **LinkedIn:** [Click Here](www.linkedin.com/in/bhavesh-g-)
 * **GitHub:** [Click Here](https://github.com/BhaveshG29)
